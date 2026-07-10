@@ -70,7 +70,7 @@ The dashboard provides the following key business insights:
 
 Example:
 
-![Cafe Sales Dashboard](dashboard.png)
+![Cafe Sales Dashboard](https://github.com/themohdwaseem313/Cafe_Sales_Dashboard_Excel/blob/main/Screenshot%202026-07-10%20225829.png)
 
 ---
 
@@ -86,8 +86,5 @@ Through this project, I strengthened my skills in:
 
 ---
 
-## 📬 Connect With Me
+## 📬 Thank You...
 
-If you have any feedback or suggestions, feel free to connect with me on LinkedIn or explore my other projects on GitHub.
-
-⭐ If you found this project helpful, consider giving it a star!
