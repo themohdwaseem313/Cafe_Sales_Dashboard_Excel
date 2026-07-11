@@ -64,9 +64,7 @@ The dashboard provides the following key business insights:
 
 ---
 
-## 📷 Dashboard Preview
-
-> Dashboard Video link:- https://www.linkedin.com/feed/update/urn:li:activity:7481404583320137729/ 
+## 📷 Dashboard Preview 
 
 Example:
 
